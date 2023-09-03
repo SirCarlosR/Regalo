@@ -13,3 +13,20 @@ body{
     height: 350px;
 
 }
+.Subtitulo{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(142, 77, 202);
+}
+
+
+
+.foto1{
+    width: 250px;
+    height: 250px;
+    margin-right: 7px;
+}
+.foto2{
+    width: 650px;
+    height: 350px
+}
