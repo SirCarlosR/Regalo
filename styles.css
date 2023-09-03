@@ -11,6 +11,8 @@ body{
 .Portada{
     width: 350px;
     height: 350px;
+    margin-right: 7px;
+    margin-left: 7px;
 
 }
 .Subtitulo{
@@ -19,8 +21,6 @@ body{
     background-color: rgb(142, 77, 202);
 }
 
-
-
 .foto1{
     width: 250px;
     height: 250px;
@@ -28,5 +28,17 @@ body{
 }
 .foto2{
     width: 650px;
-    height: 350px
+    height: 350px;
+}
+
+.foto3{
+    width: 850px;
+    height: 250px;
+}
+
+.Videos{
+    width: 350px;
+    height: 650px;
+    margin-right: 7px;
+    margin-left: 7px; 
 }
